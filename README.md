@@ -116,6 +116,13 @@ http://127.0.0.1:8000
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://ecomiq-dashboard.vercel.app
+
+Experience the live dashboard with real-time analytics and insights.
+
+
 ## 🚀 Future Improvements
 
 
