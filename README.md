@@ -117,7 +117,7 @@ http://127.0.0.1:8000
 ---
 
 ## 🚀 Future Improvements
-![Uploading Ecommerce-Dashboard image 1.png…]()
+
 
 * 📥 Export reports (CSV/PDF)
 * 🤖 Machine Learning predictions
@@ -135,4 +135,9 @@ http://127.0.0.1:8000
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
+
+
+<img width="1366" height="387" alt="Ecommerce-Dashboard image 2" src="https://github.com/user-attachments/assets/ce9e337d-c71a-4b77-822b-11c551b34181" />
+<img width="1365" height="648" alt="Ecommerce-Dashboard image 1" src="https://github.com/user-attachments/assets/aa412686-1784-41ce-9f67-444f8f6cb92b" />
+
 
